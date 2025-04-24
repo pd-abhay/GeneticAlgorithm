@@ -1,3 +1,5 @@
+# Genetic Algorithm
+
 Genetic Algorithm (GA) is a metaheuristic optimization technique inspired by the principles of natural selection and evolution. It is commonly used to solve complex optimization and search problems where traditional methods may fail.
 
  Key Concepts:
